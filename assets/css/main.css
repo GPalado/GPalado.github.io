@@ -2334,6 +2334,16 @@
 			.image.fit img {
 				width: 100%;
 			}
+	
+		.image.centered {
+			display: block;
+			margin: 2em 2em 2em 2em;
+			width: 80%;
+		}
+		
+			.image.centered img {
+				width: 80%;
+			}
 
 /* List */
 
