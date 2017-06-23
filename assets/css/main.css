@@ -2337,7 +2337,7 @@
 	
 		.image.centered {
 			display: block;
-			margin: 2em 2em 2em 2em;
+			margin: auto;
 			width: 70%;
 		}
 		
